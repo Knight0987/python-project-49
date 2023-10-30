@@ -18,7 +18,7 @@
     Простое ли число: 'brain-prime'
     
 #Проверка на чётность
-    [![asciicast](https://asciinema.org/a/Zxlh15sx8e1HKpThgfp9GhHzF)]
+    [![asciicast](https://asciinema.org/a/Zxlh15sx8e1HKpThgfp9GhHzF.svg)](https://asciinema.org/a/Zxlh15sx8e1HKpThgfp9GhHzF)
 #Калькулятор
     [![asciicast](https://asciinema.org/a/8jW29zg3z7Si5pG0vyauw4hkJ)]
 #НОД
