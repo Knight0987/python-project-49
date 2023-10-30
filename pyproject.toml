@@ -11,7 +11,11 @@ packages = [
 [tool.poetry.dependencies]
 python = "^3.10"
 prompt = "^0.4.1"
+brain-games = "^0.5.1"
 
+
+[tool.poetry.group.dev.dependencies]
+flake8 = "^6.1.0"
 
 [build-system]
 requires = ["poetry-core"]
@@ -19,3 +23,5 @@ build-backend = "poetry.core.masonry.api"
 
 [tool.poetry.scripts]
 brain-games = "brain_games.scripts.brain_games:main"
+brain-even = "brain_games.scripts.brain_even:main"
+brain-calc = "brain_games.scripts.brain_calc:main"
