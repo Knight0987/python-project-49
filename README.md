@@ -20,10 +20,10 @@
 #Проверка на чётность
     [![asciicast](https://asciinema.org/a/Zxlh15sx8e1HKpThgfp9GhHzF.svg)](https://asciinema.org/a/Zxlh15sx8e1HKpThgfp9GhHzF)
 #Калькулятор
-    [![asciicast](https://asciinema.org/a/8jW29zg3z7Si5pG0vyauw4hkJ)]
+    [![asciicast](https://asciinema.org/a/8jW29zg3z7Si5pG0vyauw4hkJ.svg)](https://asciinema.org/a/8jW29zg3z7Si5pG0vyauw4hkJ)
 #НОД
-    [![asciicast](https://asciinema.org/a/FhMJvJAGGV373alDZh06lybmc)]
+    [![asciicast](https://asciinema.org/a/FhMJvJAGGV373alDZh06lybmc.svg)](https://asciinema.org/a/FhMJvJAGGV373alDZh06lybmc)
 #Арифметическая прогрессия
-    [![asciicast](https://asciinema.org/a/olNqrJ2GMWb8ac7cHqqlO7XDD)]
+    [![asciicast](https://asciinema.org/a/olNqrJ2GMWb8ac7cHqqlO7XDD.svg)](https://asciinema.org/a/olNqrJ2GMWb8ac7cHqqlO7XDD)
 #Простое ли число
-    [![asciicast](https://asciinema.org/a/BSN33FVxqKQpxjy09n0CUGnl1)]
+    [![asciicast](https://asciinema.org/a/BSN33FVxqKQpxjy09n0CUGnl1.svg)](https://asciinema.org/a/BSN33FVxqKQpxjy09n0CUGnl1)
