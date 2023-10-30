@@ -9,8 +9,8 @@ def is_even(question):
         return 'yes'
     else:
         return 'no'
-   
-        
+
+
 def game_task():
     question = random.randint(1, 100)
     correct_answer = str(is_even(question))

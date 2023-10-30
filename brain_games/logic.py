@@ -1,4 +1,4 @@
-import prompt
+
 from brain_games.cli import welcome_user
 
 
@@ -11,8 +11,8 @@ def play_round(question, correct_answer):
     else:
         print(f"{answer} is wrong answer :(. Correct answer was {correct_answer}")
         return False
-    
-    
+
+
 def play_game(game):
     name = welcome_user()
     print(game.GAME_TASK)
@@ -24,6 +24,6 @@ def play_game(game):
         else:
             print(f"Let's try again, {name}!")
             break
-            
+
     if count == 3:
         print(f'Congratulations, {name}!')
