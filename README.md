@@ -17,17 +17,22 @@
     Арифметическая прогрессия: 'brain-progression'
     Простое ли число: 'brain-prime'
     
-#Проверка на чётность
+#Игра: Проверка на чётность
+Суть игры в следующем: пользователю показывается случайное число. И ему нужно ответить yes, если число чётное, или no — если нечётное.
     [![asciicast](https://asciinema.org/a/Zxlh15sx8e1HKpThgfp9GhHzF.svg)](https://asciinema.org/a/Zxlh15sx8e1HKpThgfp9GhHzF)
 
-#Калькулятор
+#Игра: Калькулятор
+Суть игры в следующем: пользователю показывается случайное математическое выражение, например, 35 + 16, которое нужно вычислить и записать правильный ответю
     [![asciicast](https://asciinema.org/a/8jW29zg3z7Si5pG0vyauw4hkJ.svg)](https://asciinema.org/a/8jW29zg3z7Si5pG0vyauw4hkJ)
 
-#НОД
+#Игра: НОД
+Суть игры в следующем: пользователю показывается два случайных числа, например, 25 50. Пользователь должен вычислить и ввести наибольший общий делитель этих чиселю
     [![asciicast](https://asciinema.org/a/FhMJvJAGGV373alDZh06lybmc.svg)](https://asciinema.org/a/FhMJvJAGGV373alDZh06lybmc)
 
-#Арифметическая прогрессия
+#Игра: Арифметическая прогрессия
+Показываем игроку ряд чисел, который образует арифметическую прогрессию, заменив любое из чисел двумя точками. Игрок должен определить это числою
     [![asciicast](https://asciinema.org/a/olNqrJ2GMWb8ac7cHqqlO7XDD.svg)](https://asciinema.org/a/olNqrJ2GMWb8ac7cHqqlO7XDD)
 
-#Простое ли число
+#Игра: Простое ли число
+Пользователю нужно угадать простое ли число.
     [![asciicast](https://asciinema.org/a/BSN33FVxqKQpxjy09n0CUGnl1.svg)](https://asciinema.org/a/BSN33FVxqKQpxjy09n0CUGnl1)
