@@ -1,8 +1,7 @@
 import random
 
 
-GAME_TASK = 'Answer "yes" if the number is even, otherwise answer "no".'
-
+GAME_TASK = "Answer 'yes' if the number is even, otherwise answer 'no'."
 
 def is_even(question):
     if question % 2 == 0:
