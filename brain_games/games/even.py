@@ -8,7 +8,7 @@ def is_even(question):
     if question % 2 == 0:
         return "yes"
     else:
-        return 'no'
+        return "no"
 
 
 def game_task():
