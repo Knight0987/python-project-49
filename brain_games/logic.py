@@ -1,4 +1,4 @@
-import promt
+import prompt
 from brain_games.cli import welcome_user
 
 
