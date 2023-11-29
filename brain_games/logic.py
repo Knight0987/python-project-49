@@ -15,7 +15,7 @@ def play_round(question, correct_answer):
 
 def play_game(game):
     name = welcome_user()
-    print(game.GAME_TASK)
+    print(game.TASK)
         
     count = 0
     while count != 3:
